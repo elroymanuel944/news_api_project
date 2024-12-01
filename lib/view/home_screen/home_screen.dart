@@ -1,4 +1,3 @@
-import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:news_api_project/controller/new_api_controller.dart';
 import 'package:news_api_project/model/category_scetion.dart';
